@@ -1,0 +1,1 @@
+Project acts as a multi-meter capable of measuring voltage and resistance and displaying the measured values on the Computer terminal. This is done through a microcontroller, coding it with C language.
